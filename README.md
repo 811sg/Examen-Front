@@ -1,5 +1,4 @@
-# Explora Colombia
-
+# Explora Colombiaaa
 Aplicación de una sola vista hecha con React + Vite + TypeScript que consume la API pública [API Colombia](https://api-colombia.com/api/v1). Permite filtrar los departamentos en tiempo real y abrir un modal con el detalle completo (datos clave y ciudades).
 
 ## Instalación y ejecución local
