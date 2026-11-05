@@ -73,6 +73,3 @@ Modal con el detalle completo:
 
 ![Modal](src/assets/modal.png)
 
-Error HTTP con botón Reintentar:
-
-![Error](src/assets/error.png)
